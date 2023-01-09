@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BinChecker</string>
+    <string name="bin_sch">SCHEME</string>
+    <string name="bin_scheme">SCHEME/NETWORK</string>
+    <string name="bin_type">TYPE</string>
+    <string name="bin_brand">BRAND</string>
+    <string name="bin_prepaid">PREPAID</string>
+    <string name="bin_card">CARD NUMBER</string>
+    <string name="bin_length">LENGTH</string>
+    <string name="bin_lunh">LUNH</string>
+    <string name="bin_country">COUNTRY</string>
+    <string name="bin_bank">BANK</string>
+    <string name="buttonEnter">Enter</string>
+    <string name="noText">null</string>
+    <string name="errorSnackBar">Oops! Error</string>
+</resources>
